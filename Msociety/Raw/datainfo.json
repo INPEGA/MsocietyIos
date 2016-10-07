@@ -1,0 +1,36 @@
+{
+  "AccessLevel":"Public",
+  "AverageScore":0,
+  "Category":"แผนที่",
+  "ContactEmail":"pitiporn.p@m-society.go.th",
+  "ContactName":"น.ส.ปิติพร ปิติเสรี",
+  "CreateDate":"2558-08-28T00:00:00.000+07:00",
+  "DataDictionary":"",
+  "DataSetItems":[
+    {
+      "Extension":"csv",
+      "Name":"ชุดข้อมูลพิกัดสำนักงานพัฒนาสังคมและความมั่นคงของมนุษย์จังหวัดCSV",
+      "UpdateDate":"2558-08-28T00:00:00.000+07:00"
+    },
+    {
+      "Extension":"xls",
+      "Name":"ชุดข้อมูลพิกัดสำนักงานพัฒนาสังคมและความมั่นคงของมนุษย์จังหวัดXLS",
+      "UpdateDate":"2558-08-28T00:00:00.000+07:00"
+    }
+  ],
+  "Description":"<p>ชุดข้อมูลพิกัดสำนักงานพัฒนาสังคมและความมั่นคงของมนุษย์จังหวัด<\/p>",
+  "Frequency":"Not updated(historical only)",
+  "GeoCoverage":"Thailand",
+  "Id":"9fc2153c-f316-4e54-9e02-9bb786b445f2",
+  "IsNationalStat":false,
+  "Name":"ชุดข้อมูลพิกัดสำนักงานพัฒนาสังคมและความมั่นคงของมนุษย์จังหวัด",
+  "OpennessScore":3,
+  "PublishedDate":"2558-08-28T00:00:00.000+07:00",
+  "PublisherOrg":"สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์",
+  "Status":"Published",
+  "TempEndDate":"2559-08-28T00:00:00.000+07:00",
+  "TempStartDate":"2558-08-28T00:00:00.000+07:00",
+  "URL":"https:\/\/data.go.th\/DatasetDetail.aspx?id=9fc2153c-f316-4e54-9e02-9bb786b445f2",
+  "UpdateDate":"2558-08-28T09:51:35.937+07:00",
+  "VoteCount":0
+}
